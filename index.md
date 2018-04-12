@@ -4,6 +4,8 @@ Students have many obligations in addition to their studies. Many may not have t
 
 Study Hall is a web application made by students for students. Users can register an account and find tutors leading online study groups for a variety of classes. Tutors can organize large groups to help out numerous students who don't have the time during the day to seek out the help they need. Study Hall also provides an instant messaging system for those looking for more direct one-on-one help. Students also have the ability to meet others in their classes and organize private study groups for their courses. 
 
+[Here is a link to our deployed web page](studyhall.meteorapp.com).
+
 ## Development
 
 #### Home Page
@@ -26,3 +28,10 @@ We will look to keep the information of the listed classes concise since users w
 There is a basic mockup of the page to allow tutors to create a tutoring session that other users may sign up for. This will add the session to the session collection and allow other pages to get data from the collection.
 
 <img src="doc/images/createsession.png">
+
+
+#### [Manage Tutoring Sessions](http://studyhall.meteorapp.com/#/manage-session)
+
+We've created a page to show the user the tutoring sessions they have created. This will allow tutors to manage and change any information about upcoming sessions to keep information up to date.
+
+<img src="doc/images/managesession.png">

@@ -8,13 +8,19 @@ Study Hall is a web application made by students for students. Users can registe
 
 ## Development
 
-#### Home Page
+### Milestone 1
+
+Below, is the mockups we've completed in time for Milestone 1 along with links and pictures to the specific pages.
+
+[Here](https://github.com/study-hall/study-hall/projects/1) is the link to the GitHub M1 project page.
+
+#### [Home Page](http://studyhall.meteorapp.com/#/)
 
 The first draft of the home page has been created. This is the look that we are trying to achieve when people first visit the site. We want to get the basic point of the app across to them quickly and direct the user to creating an account easily. The color scheme may be changed at a later date.
 
 <img src="doc/images/landing.png">
 
-#### Class Listing
+#### [Class Listing](http://studyhall.meteorapp.com/#/list)
 
 We have a rough mockup of what our class listing will be like. Right now users can add classes onto the site and view a list of them on this page.
 
@@ -23,7 +29,7 @@ We have a rough mockup of what our class listing will be like. Right now users c
 We will look to keep the information of the listed classes concise since users will probably know what they are looking for. We will add options to allow users to search classes and filter them by department or number.  
 
 
-#### Creating a Tutoring Session
+#### [Creating a Tutoring Session](http://studyhall.meteorapp.com/#/create-session)
 
 There is a basic mockup of the page to allow tutors to create a tutoring session that other users may sign up for. This will add the session to the session collection and allow other pages to get data from the collection.
 
@@ -35,3 +41,7 @@ There is a basic mockup of the page to allow tutors to create a tutoring session
 We've created a page to show the user the tutoring sessions they have created. This will allow tutors to manage and change any information about upcoming sessions to keep information up to date.
 
 <img src="doc/images/managesession.png">
+
+### Milestone 2
+
+[Here](https://github.com/study-hall/study-hall/projects/2) is the link to the GitHub M2 project page.

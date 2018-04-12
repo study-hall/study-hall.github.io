@@ -14,8 +14,15 @@ The first draft of the home page has been created. This is the look that we are 
 
 #### Class Listing
 
-We have a rough mockup of what our class listing will be like. The right now users can add classes onto the site and view a list of them on this page.
+We have a rough mockup of what our class listing will be like. Right now users can add classes onto the site and view a list of them on this page.
 
 <img src="doc/images/classlist.png">
 
 We will look to keep the information of the listed classes concise since users will probably know what they are looking for. We will add options to allow users to search classes and filter them by department or number.  
+
+
+#### Creating a Tutoring Session
+
+There is a basic mockup of the page to allow tutors to create a tutoring session that other users may sign up for. This will add the session to the session collection and allow other pages to get data from the collection.
+
+<img src="doc/images/createsession.png">

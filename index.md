@@ -58,16 +58,13 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 First, [install meteor](https://www.meteor.com/install).
 
-Go to the github page for Study hall [here](https://github.com/study-hall/study-hall) and fork the repository.
-
-You can then clone the forked repository to your computer.
+Go to the github page for Study hall [here](https://github.com/study-hall/study-hall) and fork the repository. You can then clone the forked repository to your computer.
 
 From inside a shell, change directories to the /study-hall/app folder and run:
 
 `meteor npm install`
 
-to install the required libraries
-
+to install the required libraries.
 Once the libraries are installed, you can run the application by using this command:
 
 `meteor npm run start`

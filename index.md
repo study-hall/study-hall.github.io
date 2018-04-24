@@ -59,6 +59,12 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_I'd have to say I really like the idea that anyone can tutor other students whenever they want. As of right now, I'm not sure what some of the pages do, such as the specific class lists. It's a pretty cool idea, though._" - Tyler Young
 
+"_This site can be very helpful for the future and help students get the grades they want to achieve. I believe tutors can connect with the students better and I believe this site will really be beneficial for students._" - Neel Kotak 
+
+"_This is a great app that actually can be used in the future. I hope that you all continue to work on it after this class because it is very helpful.  I personally have a busy schedule with work as well and I can't make most office hours. I usually am free at night and having these tutors can really help me. Some tips would be to add more classes._" - Gary Wong 
+
+"_
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).

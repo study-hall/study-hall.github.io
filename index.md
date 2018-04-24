@@ -63,7 +63,7 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_This is a great app that actually can be used in the future. I hope that you all continue to work on it after this class because it is very helpful. I personally have a busy schedule with work as well and I can't make most office hours. I usually am free at night and having these tutors can really help me. Some tips would be to add more classes._" - Gary Wong 
 
-"_
+"_I enjoyed looking at your site, but I believe that you can add more creativity to it. For example more pictures and changing the color to something more appealing. I like all the different pages and how organized it is._" - Yujin Kim 
 
 ## Developer Guide
 

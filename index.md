@@ -8,9 +8,7 @@ Study Hall is a web application made by students for students. Users can registe
 
 [Here is a link to our deployed web page](http://studyhall.meteorapp.com).
 
-## Development
-
-### User Guide
+## User Guide
 
 #### [Landing Page](http://studyhall.meteorapp.com/#/)
 

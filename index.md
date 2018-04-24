@@ -35,6 +35,13 @@ The class list page shows users all the currently available sessions for specifi
 We will look to keep the information of the listed classes concise since users will probably know what they are looking for. We will add options to allow users to search classes and filter them by department or number.  
 
 
+#### [User Home Page](http://studyhall.meteorapp.com/#/userhome)
+
+<img src="doc/images/userhome.png">
+
+The user home page will act like the profile page of the user on the website. Here, the user can see the classes they've stated they enrolled in, as well as simple information on sessions they have currently signed up for.
+
+
 #### [Creating a Tutoring Session](http://studyhall.meteorapp.com/#/create-session)
 
 For verified tutors, they may use this page to create sessions for specific classes with specified dates, times, and locations. Tutors can create sessions whenever and wherever they can that will help out students that need extra tutoring for classes.

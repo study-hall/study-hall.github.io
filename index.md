@@ -2,45 +2,75 @@
 
 Students have many obligations in addition to their studies. Many may not have the time to seek out the help they need with their classes. Office hours are sometimes too short, don't fit in the student's schedule, or are simply not enough. Study Hall aims to solve that problem. 
 
+## Overview
+
 Study Hall is a web application made by students for students. Users can register an account and find tutors leading online study groups for a variety of classes. Tutors can organize large groups to help out numerous students who don't have the time during the day to seek out the help they need. Study Hall also provides an instant messaging system for those looking for more direct one-on-one help. Students also have the ability to meet others in their classes and organize private study groups for their courses. 
 
 [Here is a link to our deployed web page](http://studyhall.meteorapp.com).
 
 ## Development
 
-### Milestone 1
+### User Guide
 
-Below, is the mockups we've completed in time for Milestone 1 along with links and pictures to the specific pages.
+#### [Landing Page](http://studyhall.meteorapp.com/#/)
 
-[Here](https://github.com/study-hall/study-hall/projects/1) is the link to the GitHub M1 project page.
-
-#### [Home Page](http://studyhall.meteorapp.com/#/)
-
-The first draft of the home page has been created. This is the look that we are trying to achieve when people first visit the site. We want to get the basic point of the app across to them quickly and direct the user to creating an account easily. The color scheme may be changed at a later date.
+From the landing page, the user can login or register an account on Study Hall. This allows them to find tutoring sessions offered by tutors from specific departments and classes. 
 
 <img src="doc/images/landing.png">
 
-#### [Class Listing](http://studyhall.meteorapp.com/#/list)
+#### [My Class List](http://studyhall.meteorapp.com/#/list)
 
-We have a rough mockup of what our class listing will be like. Right now users can add classes onto the site and view a list of them on this page.
+In the users class list, the user may keep track of all the classes they are currently taking. Users can also contact tutors that are currently hosting teaching sessions for those specific classes to plan about sessions they could attend.
 
 <img src="doc/images/classlist.png">
+
+#### [Class List](http://studyhall.meteorapp.com/#/ClassList)
+
+<img src="doc/images/theclasslist.png">
+
+The class list page shows users all the currently available sessions for specific departments. When clicking on any of the departments on this page, it will lead to a specific page with sessions only for classes from that department.
+
+<img src="doc/images/specificclasslist.png">
 
 We will look to keep the information of the listed classes concise since users will probably know what they are looking for. We will add options to allow users to search classes and filter them by department or number.  
 
 
 #### [Creating a Tutoring Session](http://studyhall.meteorapp.com/#/create-session)
 
-There is a basic mockup of the page to allow tutors to create a tutoring session that other users may sign up for. This will add the session to the session collection and allow other pages to get data from the collection.
+For verified tutors, they may use this page to create sessions for specific classes with specified dates, times, and locations. Tutors can create sessions whenever and wherever they can that will help out students that need extra tutoring for classes.
 
 <img src="doc/images/createsession.png">
 
 
 #### [Manage Tutoring Sessions](http://studyhall.meteorapp.com/#/manage-session)
 
-We've created a page to show the user the tutoring sessions they have created. This will allow tutors to manage and change any information about upcoming sessions to keep information up to date.
+If a tutor has created a session, this page lists all the sessions that the tutor is currently going to attend and teach. From here, the tutor may change any relevant information about his/her tutoring sessions to keep information up to date by using the edit their session.
 
 <img src="doc/images/managesession.png">
+
+## Community Feedback
+
+"_The site offers a nice service for those who need extra help outside of office hours/those who can't attend them. The amount of departments seem really limited right now. Also the navbar looks strange with Study Hall and Class List being the same size_" - Nick Izawa
+
+"_I'd have to say I really like the idea that anyone can tutor other students whenever they want. As of right now, I'm not sure what some of the pages do, such as the specific class lists. It's a pretty cool idea, though._" - Tyler Young
+
+## Developer Guide
+
+First, [install meteor](https://www.meteor.com/install).
+
+Go to the github page for Study hall [here](https://github.com/study-hall/study-hall) and fork the repository.
+
+You can then clone the forked repository to your computer.
+
+From inside a shell, change directories to the /study-hall/app folder and run:
+
+`meteor npm install`
+
+to install the required libraries
+
+Once the libraries are installed, you can run the application by using this command:
+
+`meteor npm run start`
 
 ### Milestone 2
 

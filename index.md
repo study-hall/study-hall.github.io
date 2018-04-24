@@ -58,7 +58,7 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 First, [install meteor](https://www.meteor.com/install).
 
-Go to the github page for Study hall [here](https://github.com/study-hall/study-hall) and fork the repository. You can then clone the forked repository to your computer.
+Go to the Github page for Study Hall [here](https://github.com/study-hall/study-hall) and fork the repository. You can then clone the forked repository to your computer.
 
 From inside a shell, change directories to the /study-hall/app folder and run:
 

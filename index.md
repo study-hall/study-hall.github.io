@@ -90,6 +90,6 @@ Once the libraries are installed, you can run the application by using this comm
 
 `meteor npm run start`
 
-### Milestone 2
+### Milestone 3
 
-[Here](https://github.com/study-hall/study-hall/projects/2) is the link to the GitHub M2 project page.
+[Here](https://github.com/study-hall/study-hall/projects/3) is the link to the GitHub M3 project page.

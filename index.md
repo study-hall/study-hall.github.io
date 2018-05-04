@@ -71,6 +71,8 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_Great idea with creating a site to access tutors. This is actually going to be helpful for me because accessing tutors now can be quite difficult. Just like with teachers office hours, I have a hard time finding a tutor that fits my schedule. I believe this site can help with this problem because it looks as if there will be more tutors and they will be easier to reach. The site is very easy to follow, great job._" - Richard Kim 
 
+"_Looking at the site, is there going to be somewhere where you can see the times of the tutors? I like how you have the option to sign up as a tutor as well. That is something I have not seen before. If you continue with this app, you should take a poll of how students are doing in there classes based on using this site._" - Beverly Niuatoa 
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).

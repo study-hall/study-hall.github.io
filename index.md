@@ -67,6 +67,8 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_From looking at your site, their is a lot of potential. I like the organization of everything, but it is bland right now. Their should be different colors, pictures, etc. Overall though good app and a great idea._" - Carson Miller
 
+"_I think the landing page needs to be changed because it should look more professional. I would suggest changing some fonts of titles to attract the people looking at your site. Other then the things I mentioned, the site is very well done. Good job._" - Alex Liem
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).

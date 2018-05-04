@@ -69,6 +69,8 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_I think the landing page needs to be changed because it should look more professional. I would suggest changing some fonts of titles to attract the people looking at your site. Other then the things I mentioned, the site is very well done. Good job._" - Alex Liem
 
+"_Great idea with creating a site to access tutors. This is actually going to be helpful for me because accessing tutors now can be quite difficult. Just like with teachers office hours, I have a hard time finding a tutor that fits my schedule. I believe this site can help with this problem because it looks as if there will be more tutors and they will be easier to reach. The site is very easy to follow, great job._" - Richard Kim 
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).

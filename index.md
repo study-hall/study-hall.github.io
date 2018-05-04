@@ -73,6 +73,8 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_Looking at the site, is there going to be somewhere where you can see the times of the tutors? I like how you have the option to sign up as a tutor as well. That is something I have not seen before. If you continue with this app, you should take a poll of how students are doing in there classes based on using this site._" - Beverly Niuatoa 
 
+"_Very cool site, but where are the students and tutors going to meet, is there a designated area or just wherever is convenient? Not much feedback besides my question because the site is interesting and looks as if you all put in a lot of time into this site._" - Zoe Kon
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).

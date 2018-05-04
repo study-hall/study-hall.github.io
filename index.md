@@ -65,6 +65,8 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_I enjoyed looking at your site, but I believe that you can add more creativity to it. For example more pictures and changing the color to something more appealing. I like all the different pages and how organized it is._" - Yujin Kim 
 
+"_From looking at your site, their is a lot of potential. I like the organization of everything, but it is bland right now. Their should be different colors, pictures, etc. Overall though good app and a great idea._" - Carson Miller
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).

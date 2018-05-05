@@ -75,6 +75,10 @@ If a tutor has created a session, this page lists all the sessions that the tuto
 
 "_Very cool site, but where are the students and tutors going to meet, is there a designated area or just wherever is convenient? Not much feedback besides my question because the site is interesting and looks as if you all put in a lot of time into this site._" - Zoe Kon
 
+## Initial User Study 
+
+Our group interviewed a number of people and their names are listed in the "Community Feedback" section. The people we interviewed were friends, but not all were studying computer science. We felt like it was important to look for other people and see what they thought of our website. The amount of feedback we got was great and they provided some constructive criticisms as well. Each week we sat some of these people down and explained what our site was suppose to do and then had them test it out. We allowed them to roam and check out all the different pages because we wanted to get their feedback. It was important to get these ten people because the more people we had view our site the more feedback we got and more feedback leads to a better site. Many of them had issues with how the site looked and gave us ways to improve it. This was what most people said and other than this we got a lot of positive feedback as well. These people thought our organization and the pages we had were very good. All of them found that this site would be very useful for students and getting the grades they wanted in each class. 
+
 ## Developer Guide
 
 First, [install meteor](https://www.meteor.com/install).
